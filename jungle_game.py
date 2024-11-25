@@ -3,10 +3,13 @@ print( 'JUNGLE GAME ')
 print('')
 
 def start():
-     print(''' GAME START CAR 700 km 
+     print('''          GAME START
+           
+ The car has traveled 700 km, and there are two routes ahead.
+           
            press 1 for left
            press 2 for right''')
-     
+     print('')
 start()
 
 def joy():
@@ -28,7 +31,9 @@ def game():
      x=int(input('enter number :'))
      print('')
      if(x==1):
-         z=int(input(''' CAR 500km 
+         z=int(input(''' 
+The car has traveled 500 km, and there are two routes ahead.
+                
                 press 1 for left
                 press 2 for right
                 enter number :'''))
@@ -41,12 +46,17 @@ def game():
               joy()
 
      elif(x==2):
-          d=int(input(''' CAR 500km
+          d=int(input('''
+ The car has traveled 200 km, and there are two routes ahead.
+
                       press 1 for left
                       prees 2 for right
                       enter number :'''))
           if(d==1):
-               v=int(input(''' CAR 300km stranger
+               v=int(input(''' 
+
+The car has traveled 700 km, and there are two routes ahead. There is a stranger ahead
+                      
                            press 1 for help
                            press 2 for don't help
                            enter number :'''))
