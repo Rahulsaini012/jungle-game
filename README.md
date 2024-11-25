@@ -80,7 +80,7 @@ Thank you for playing and supporting this project!
 
 -gmail : pb65rahulsaini@gmail.com
 
--linkdin:
+-linkedin:
 
 
 
