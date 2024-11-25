@@ -75,8 +75,11 @@ Thank you for playing and supporting this project!
 
 
 ### Notes:
-- Replace : https://github.com/your-username/jungle-game` with your repository link.
+
+- Replace : (https://github.com/Rahulsaini012/jungle-game/commit/1b88cec8e02a189abf16760677f6d9beb93ba9e8)
+
 -gmail : pb65rahulsaini@gmail.com
+
 -linkdin:
 
 
