@@ -36,7 +36,7 @@ Welcome to **Jungle Game**, an adventurous car journey through thrilling routes!
 ---
 
 
-##🔮 Example Gameplay
+## 🔮 Example Gameplay
 plaintext
 JUNGLE GAME 
 
@@ -54,7 +54,8 @@ THE BIG RIVER____GAME OVER_____
 enter number: 1
 
 
-##🤝Contributions
+## 🤝Contributions
+
 Contributions, issues, and feature requests are welcome! Feel free to:
 
 Fork the repository
@@ -63,11 +64,11 @@ Create a new branch
 
 Submit a pull request
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##❤️Acknowledgments
+## ❤️Acknowledgments
 
 Inspired by the adventurous spirit of the jungle!
 
