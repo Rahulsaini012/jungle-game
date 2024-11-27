@@ -4,7 +4,7 @@ Welcome to **Jungle Game**, an adventurous car journey through thrilling routes!
 
 ---
 
-## 🎮 Gameplay Overview
+## 🎮 Gameplay Overview 
 
 - The game starts with a car that has traveled 700 km.
 - Players make choices at every crossroad:
