@@ -74,13 +74,16 @@ Inspired by the adventurous spirit of the jungle!
 Thank you for playing and supporting this project!
 
 
-### Notes:
+### 📬 Contact
 
-- Replace : (https://github.com/Rahulsaini012/jungle-game/commit/1b88cec8e02a189abf16760677f6d9beb93ba9e8)
+For inquiries or issues, contact me:
 
--gmail : pb65rahulsaini@gmail.com
 
--linkedin:
+Email:pb65rahulsaini@gmail.com
+
+Instagram: https://www.instagram.com/rahul__sainiiii/
+
+Linkedin: https://www.linkedin.com/in/rahul-saini-2b4b33337/
 
 
 
